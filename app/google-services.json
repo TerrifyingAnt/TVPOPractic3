@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124175560768",
+    "project_id": "fieldsofdoracles",
+    "storage_bucket": "fieldsofdoracles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124175560768:android:245b42ee3092a2b37fafa5",
+        "android_client_info": {
+          "package_name": "it.mirea.fieldofmiracleswithyakudorovich"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124175560768-e22hntcsd8s6scbaad2s0s8qaddvpamc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqa3Xqth0vdo5uy3J99B33yOQ0W8_DPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124175560768-e22hntcsd8s6scbaad2s0s8qaddvpamc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

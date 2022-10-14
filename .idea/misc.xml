@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/desctop/mobileProgramming/Practics/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/desctop/mobileProgramming/Practics/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/register_view.xml" value="0.358695652173913" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/drawable/ic_pen.xml" value="0.1" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/drawable/ic_triangle.xml" value="0.1" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/activity_game.xml" value="0.22" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/activity_game_types.xml" value="0.24230072463768115" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/activity_main.xml" value="0.24230072463768115" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/activity_settings.xml" value="0.3333333333333333" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/change__nickname_view.xml" value="0.24230072463768115" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/change_nickname_view.xml" value="0.22291666666666668" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/create_game_view.xml" value="0.24230072463768115" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/enter_symbol_view.xml" value="0.1796875" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/join_game_view.xml" value="0.24230072463768115" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/login_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/register_view.xml" value="0.5" />
+        <entry key="..\:/desktop/MyProjects/Android/05_FieldsOfMiraclesWithYakuDOROvich/FieldsOfMiraclesWithYakuDOROvich/app/src/main/res/layout/start_page_activity.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
